@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mPriceTextView = (TextView) findViewById(R.id.priceText);
-
+//code
 //        AsyncHttpClient client = new AsyncHttpClient();
 //        client.get(BASE_URL, new JsonHttpResponseHandler() {
 //
