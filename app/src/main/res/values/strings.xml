@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BitcoinTracker</string>
+    <string name="bitcoin">bitcoinimg</string>
+    <string name="textviewprice">Loading Please Wait...</string>
+    <string name="textviewbasecurrency">
+        Base Currency
+    </string>
+
+    <string-array name="planets_array">
+
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+    </string-array>
+</resources>
